@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/asion/FPGA/Bidirmem_VHDL/bidirmem_top_tb_isim_beh.exe" -prj "/home/asion/FPGA/Bidirmem_VHDL/bidirmem_top_tb_beh.prj" "work.bidirmem_top_tb" 
